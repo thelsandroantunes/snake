@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1611436837 source:c:\users\thelsandro\documents\github\snake\snake\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<dos.h>
+	"cabecalho.h"
+
+1611436371 c:\users\thelsandro\documents\github\snake\snake\cabecalho.h
+
+1611436979 source:c:\users\thelsandro\documents\github\snake\snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<stdbool.h>
+	<windows.h>
+	<dos.h>
+	"cabecalho.h"
+
